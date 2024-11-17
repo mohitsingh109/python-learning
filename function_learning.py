@@ -21,3 +21,8 @@ print(greet("Mohit"))
 
 name, age, task = multiple_return_multiple_values()
 print(task)
+
+_, age, _ = multiple_return_multiple_values()
+print(age)
+
+

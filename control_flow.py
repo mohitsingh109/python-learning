@@ -18,3 +18,15 @@ while count < 5:
     print(count)
     count += 1
 
+
+# && ||
+age = 25
+name = "Mohit"
+
+if age >= 10 and name == "Mohit":
+    print("Yes it's name is Mohit and age >= 10")
+
+
+if age >= 50 or name == "Mohit":
+    print("Yes it's name is Mohit or age >= 50")
+
